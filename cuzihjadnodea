@@ -1,9 +1,9 @@
 local new = { 
     main = { 
         Mario = true,
-        Prediction = 0.1,
+        Prediction = 0.1244512,
         Part = "HumanoidRootPart", -- Head, UpperTorso, HumanoidRootPart, LowerTorso, RightFoot, LeftFoot, RightArm, LeftArm 
-        Key = "e",
+        Key = "q",
         Notifications = true,
         AirshotFunc = true
     },
