@@ -1,7 +1,7 @@
 local new = { 
     main = { 
         Mario = true,
-        Prediction = 0.12389724521,
+        Prediction = 0.1,
         Part = "HumanoidRootPart", -- Head, UpperTorso, HumanoidRootPart, LowerTorso, RightFoot, LeftFoot, RightArm, LeftArm 
         Key = "e",
         Notifications = true,
@@ -10,7 +10,7 @@ local new = {
     Tracer = { 
         TracerThickness = 3.5, -- 
         TracerTransparency = 1, --
-        TracerColor = Color3.fromRGB(0, 0, 0) --
+        TracerColor = Color3.fromRGB(255, 0, 0) --
     }
 }
 
