@@ -10,7 +10,7 @@ local new = {
     Tracer = { 
         TracerThickness = 2, -- made by thusky
         TracerTransparency = 1, -- made by thusky
-        TracerColor = Color3.fromRGB(255, 0, 0) -- made by thusky
+        TracerColor = Color3.fromRGB(0, 0, 0) -- made by thusky
     }
 }
 
